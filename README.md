@@ -12,10 +12,10 @@ Server is hosted with Heroku.
 
 Server Live: https://myskillsapi-server.herokuapp.com/
 
-Client side app Live: 
+Client side app Live: https://tquiz.netlify.app/
 Client side app GitHub repo: https://github.com/mat-karpowicz/myskillsapi-client
 
 
 	
 ## CheckMeOut
-Feel free to check my home webpage (<add link>) to get some more info about me and my other projects. 
+Feel free to check my home webpage https://www.karpowiczm.pl/ to get some more info about me and my other projects. 
