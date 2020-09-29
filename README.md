@@ -11,6 +11,7 @@ NO .ENV FILE (no credentials to connect to database).
 Server is hosted with Heroku.
 
 Client side app Live: https://tquiz.netlify.app/
+
 Client side app GitHub repo: https://github.com/mat-karpowicz/myskillsapi-client
 
 
